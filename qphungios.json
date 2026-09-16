@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "identifier": "minhduc.aimfreefiree.com",
-  "name": "MinhDuc Repository",
-  "description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
+  "identifier": "qphungios.com",
+  "name": "MENU H4CK FREE FIRE",
+  "description": "Zalo 0348609562  Tele @qphungios",
   "accentColor": "#008080",
-  "icon": "assets/minhducdz.JPEG",
+  "icon": "assets/qphungios.JPEG",
   "packages": [
     {
       "identifier": "aimbot",
-      "name": "AIMBOT FFMAX V1",
-      "author": "MINHDUC",
+      "name": "FFM MENU ESP V2",
+      "author": "qphungios",
       "version": "1.0.0",
-      "summary": "MINHDUC • FFMAX EDITION",
-      "description": "MINHDUC • FFMAX ",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
       "category": "Game",
       "tags": [
         "Game",
         "qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/AIMBOTv1.3105",
-      "sha256": "43f7d7382d8c4b7d9ddb6490e236b0e829644f2bf4f8707dc5fa193bf412338a",
-      "size": 1595400,
+      "download": "packages/ffmesp.3105",
+      "sha256": "5dcdac7c9a702d5c32a84f362235c751f413b606f8931f8bcff0d7d65efcbf8f",
+      "size": 1906119,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -61,20 +61,20 @@
     },
     {
       "identifier": "aimbot2",
-      "name": "AIMBOT FFMAX V2",
-      "author": "MINHDUC",
-      "version": "2.0.0",
-      "summary": "MINHDUC • FFMAX V2 EDITION",
-      "description": "MINHDUC • FFMAX V2 ",
+      "name": "FFTH MENU ESP V2",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
         "Game",
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/AIMBOTv2.3105",
-      "sha256": "9e4083450ae0a0dc2927876876642924785a8d93cc773fb6d962ee6777ad6295",
-      "size": 16169618,
+      "download": "packages/ffthesp.3105",
+      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 2571323,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -100,6 +100,59 @@
       "icon": "assets/icon.png",
       "screenshots": [
         "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv3",
+      "name": "FFM MENU ESP V2",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmesp.3105",
+      "sha256": "5dcdac7c9a702d5c32a84f362235c751f413b606f8931f8bcff0d7d65efcbf8f",
+      "size": 1906119,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
         "assets/IMG_8231.jpeg",
         "assets/IMG_8233.jpeg",
         "assets/IMG_8235.jpeg",
