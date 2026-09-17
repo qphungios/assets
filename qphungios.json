@@ -72,9 +72,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/AIMBOTv2.3105",
-      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
-      "size": 2571323,
+      "download": "packages/AIMBOTV2.3105",
+      "sha256": "4deb7375b213e793892f0fa8197a509af5ddf39b9c8153f8bb7932e967ca0aae",
+      "size": 2579046,
       "supportedOS": [
         {
           "minimum": "17.0",
