@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Avatar Maker Pro</title>
+<style>
+:root{color-scheme:dark;--bg:#090e1b;--panel:#121c30;--panel2:#192742;--line:#2b3c5c;--txt:#edf4ff;--muted:#9cacc8;--cyan:#66d9ff;--violet:#a78bfa;--green:#76e0b5}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(900px 500px at 8% -15%,#203b62 0%,transparent 65%),var(--bg);color:var(--txt);font:15px/1.5 system-ui,Segoe UI,sans-serif}
+header{padding:26px max(18px,calc((100% - 1080px)/2));border-bottom:1px solid var(--line)}h1{margin:0;font-size:clamp(26px,4vw,38px);letter-spacing:-1.5px}h1 span{color:var(--cyan)}header p{color:var(--muted);margin:5px 0 0}
+main{max-width:1080px;margin:24px auto;padding:0 16px 44px}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}.tab{background:#17243b;color:var(--muted);border:1px solid var(--line);padding:10px 16px;border-radius:11px;cursor:pointer;font-weight:650}.tab.active{background:linear-gradient(100deg,#1e526b,#453a79);color:white;border-color:#5c9fc2}
+.panel{display:none}.panel.active{display:block}.card{background:linear-gradient(155deg,var(--panel),#0f1728);border:1px solid var(--line);border-radius:17px;padding:18px;margin-bottom:15px}.card h2{font-size:17px;margin:0 0 13px}
+.drop{display:block;text-align:center;border:1.5px dashed #58749c;background:#0d1729;border-radius:14px;padding:27px;cursor:pointer}.drop:hover{border-color:var(--cyan)}.drop b{display:block;font-size:16px}.muted{color:var(--muted);font-size:13px}
+input,select{width:100%;background:#0a1324;border:1px solid var(--line);border-radius:10px;padding:11px;color:var(--txt);font:inherit}label.small{display:block;color:var(--muted);font-size:13px;margin:12px 0 6px}
+button{border:0;border-radius:10px;padding:10px 14px;background:linear-gradient(100deg,#5bcce9,#9b8cff);color:#081322;font-weight:750;cursor:pointer}button.secondary{background:#243653;color:var(--txt);border:1px solid #3b5277}button:disabled{opacity:.45;cursor:not-allowed}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:13px}.stat{padding:12px;border:1px solid var(--line);background:#0b1425;border-radius:11px}.stat b{display:block;font-size:20px}.stat span{font-size:12px;color:var(--muted)}
+.info{background:#0b1425;border:1px solid var(--line);border-radius:12px;padding:13px;min-height:90px;overflow-wrap:anywhere}.pill{display:inline-block;padding:3px 8px;border-radius:30px;background:#203b55;color:#bcecff;font-size:11px;margin:3px}
+.assetlist{display:grid;gap:8px}.asset{display:flex;justify-content:space-between;align-items:center;gap:10px;background:#0b1425;border:1px solid var(--line);padding:10px 12px;border-radius:11px}.asset small{display:block;color:var(--muted)}.asset select{max-width:140px;padding:7px}
+.note{border:1px solid #66552d;background:#292315;color:#f4d99c;padding:12px;border-radius:11px;font-size:13px;margin-top:14px}.success{color:var(--green)}.hidden{display:none}
+@media(max-width:680px){.grid{grid-template-columns:1fr}.stats{grid-template-columns:repeat(3,1fr)}.asset{align-items:flex-start;flex-direction:column}.asset select{max-width:none}}
+</style></head>
+<body>
+<header><h1>AVATAR <span>MAKER PRO</span></h1><p>Import · Edit · Create — trình quản lý tài nguyên avatar cho dự án Unity của bạn.</p></header>
+<main>
+<nav class="tabs"><button class="tab active" data-tab="import">01 · IMPORT</button><button class="tab" data-tab="edit">02 · EDIT</button><button class="tab" data-tab="create">03 · CREATE</button></nav>
+<section class="panel active" id="import">
+<div class="card"><h2>Nhập AssetBundle / Unity assets</h2>
+<label class="drop"><b>Chọn file để phân tích</b><span class="muted">Hỗ trợ chọn .bundle, .assets, .unity3d và file nhị phân khác</span><input id="files" type="file" multiple hidden></label>
+<div class="stats"><div class="stat"><b id="fileCount">0</b><span>File đã nhập</span></div><div class="stat"><b id="byteCount">0 B</b><span>Tổng dung lượng</span></div><div class="stat"><b id="unityCount">0</b><span>UnityFS nhận diện</span></div></div></div>
+<div class="card"><h2>Kết quả phân tích</h2><div id="results" class="info muted">Chưa có file. Hãy nhập một AssetBundle để xem header và metadata cơ bản.</div></div>
+</section>
+<section class="panel" id="edit">
+<div class="card"><h2>Quản lý tài nguyên avatar</h2><p class="muted">Tạo danh mục tài nguyên cho dự án của bạn. Việc gán Nam/Nữ là nhãn quản lý do bạn chọn, không tự suy luận nội dung nhị phân.</p>
+<label class="small">Tên tài nguyên</label><input id="assetName" placeholder="Ví dụ: BaseMale / BaseFemale / Avatar_01">
+<label class="small">Phân loại</label><select id="assetGender"><option>Nam</option><option>Nữ</option><option>Chung</option><option>Chưa phân loại</option></select>
+<label class="small">Ghi chú</label><input id="assetNote" placeholder="Mô tả ngắn về tài nguyên">
+<div style="margin-top:12px"><button id="addAsset">Thêm vào danh mục</button></div></div>
+<div class="card"><h2>Danh mục hiện tại</h2><div id="assetList" class="assetlist muted">Chưa có tài nguyên nào.</div></div>
+</section>
+<section class="panel" id="create">
+<div class="card"><h2>Tạo gói danh mục avatar</h2><p class="muted">Tạo manifest JSON để đưa danh mục tài nguyên vào quy trình build của dự án Unity.</p>
+<label class="small">Tên dự án</label><input id="projectName" value="My Avatar Project">
+<label class="small">Unity version</label><input id="unityVersion" value="2018.4.11f1">
+<label class="small">Mô tả</label><input id="projectDesc" placeholder="Ghi chú về bộ avatar">
+<div class="row" style="display:flex;gap:9px;flex-wrap:wrap;margin-top:15px"><button id="makeManifest">Tạo manifest JSON</button><button id="downloadManifest" class="secondary" disabled>Tải manifest</button></div>
+<div id="manifestStatus" class="info muted" style="margin-top:13px">Manifest sẽ xuất hiện tại đây sau khi tạo.</div>
+<div class="note"><b>Giới hạn kỹ thuật:</b> Trang HTML này đọc header và quản lý metadata, không giải nén/chỉnh sửa/biên dịch UnityFS thành AssetBundle. Để tạo file .bundle thực tế cần Unity Editor và quy trình build AssetBundle tương thích với dự án nguồn.</div>
+</div></section>
+</main>
+<script>
+const $=id=>document.getElementById(id);let files=[],assets=[],manifest=null;
+const size=n=>{if(!n)return'0 B';let u=['B','KB','MB','GB'],i=0;while(n>=1024&&i<3){n/=1024;i++}return n.toFixed(i?2:0)+' '+u[i]};
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab,.panel').forEach(x=>x.classList.remove('active'));b.classList.add('active');$(''+b.dataset.tab).classList.add('active')});
+function readString(v,off,len){return new TextDecoder().decode(v.slice(off,off+len))}
+$('files').onchange=async e=>{for(const f of e.target.files){const buf=await f.arrayBuffer(),v=new Uint8Array(buf);let sig=readString(v,0,Math.min(7,v.length));let isUnity=sig==='UnityFS'||sig==='UnityRaw'||sig==='UnityWeb';let pos=0,ver='',engine='',rev='';if(isUnity){pos=sig.length+1;let z=v.indexOf(0,pos);if(z>pos){ver=readString(v,pos,z-pos);pos=z+1;z=v.indexOf(0,pos);if(z>pos){engine=readString(v,pos,z-pos);pos=z+1;z=v.indexOf(0,pos);if(z>pos)rev=readString(v,pos,z-pos)}}}
+files.push({name:f.name,size:f.size,sig,isUnity,ver,engine,rev,bytes:v.length})}
+renderFiles();e.target.value=''};
+function renderFiles(){$('fileCount').textContent=files.length;$('byteCount').textContent=size(files.reduce((a,f)=>a+f.size,0));$('unityCount').textContent=files.filter(f=>f.isUnity).length;$('results').innerHTML=files.length?files.map((f,i)=>`<div style="padding:10px 0;border-bottom:1px solid #263653"><b>${f.name.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}</b><span class="pill">${f.isUnity?'Unity bundle signature':'Chưa nhận diện UnityFS'}</span><div class="muted">Dung lượng: ${f.size.toLocaleString('vi-VN')} byte · Header: ${f.sig||'Không rõ'}</div>${f.isUnity?`<div class="muted">Format signature: ${f.sig} · Player version: ${f.ver||'N/A'} · Engine: ${f.engine||'N/A'} · Revision: ${f.rev||'N/A'}</div>`:''}</div>`).join(''):'Chưa có file.'}
+$('addAsset').onclick=()=>{let name=$('assetName').value.trim();if(!name){alert('Nhập tên tài nguyên trước nhé.');return}assets.push({name,gender:$('assetGender').value,note:$('assetNote').value.trim()});$('assetName').value='';$('assetNote').value='';renderAssets()};
+function renderAssets(){$('assetList').innerHTML=assets.length?assets.map((a,i)=>`<div class="asset"><div><b>${a.name.replace(/[&<>"]/g,'')}</b><small>${a.note.replace(/[&<>"]/g,'')||'Không có ghi chú'}</small></div><div><span class="pill">${a.gender}</span> <button class="secondary" data-del="${i}">Xóa</button></div></div>`).join(''):'Chưa có tài nguyên nào.';document.querySelectorAll('[data-del]').forEach(b=>b.onclick=()=>{assets.splice(+b.dataset.del,1);renderAssets()})}
+$('makeManifest').onclick=()=>{manifest={format:'avatar-maker-manifest',schema_version:1,project:{name:$('projectName').value.trim()||'Untitled',unity_version:$('unityVersion').value.trim(),description:$('projectDesc').value.trim()},created_at:new Date().toISOString(),source_files:files.map(f=>({name:f.name,size_bytes:f.size,signature:f.sig,unityfs_detected:f.isUnity,unity_version:f.engine||null})),avatar_assets:assets};$('manifestStatus').innerHTML=`<span class="success">Manifest đã tạo.</span><br>${assets.length} mục tài nguyên · ${files.length} file nguồn được ghi nhận.<pre style="white-space:pre-wrap;color:#b9c9e5;max-height:220px;overflow:auto">${JSON.stringify(manifest,null,2).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}</pre>`;$('downloadManifest').disabled=false};
+$('downloadManifest').onclick=()=>{if(!manifest)return;let blob=new Blob([JSON.stringify(manifest,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='avatar-manifest.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+</script></body></html>
