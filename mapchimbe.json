@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "Mập Chim Bé",
-  "description": "make by @qphungios",
+  "name": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+  "description": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
   "accentColor": "#008080",
   "icon": "assets/icon.png",
   "packages": [
     {
       "identifier": "aimbotsh",
       "name": "FFM AVT BYPASS ( SẢNH )",
-      "author": "qphungios",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": " Zalo 0348609562  Tele @qphungios ",
       "category": "Game",
       "tags": [
         "Game",
-        "avatar - qphungios"
+        "avatar"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmnewbypass.3105",
@@ -42,9 +42,9 @@
     {
       "identifier": "aimbot2nsns",
       "name": "FFTH AVT BYPASS ( SẢNH )",
-      "author": "qphungios",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -75,14 +75,14 @@
     {
       "identifier": "dns",
       "name": " DNS - ( 53b3a5 ) ",
-      "author": "qphungios",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": " Dowload Ipa : https://ipas.cc/wcbqm1 ",
       "category": "Game",
       "tags": [
         "Game",
-        "fixban - qphungios"
+        "fixban"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/shadow.3105",
@@ -108,14 +108,14 @@
     {
       "identifier": "shadow",
       "name": " FIXBAN ID ( BẬT SẢNH )",
-      "author": "qphungios",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": " Dowload Ipa : https://ipas.cc/squzdg ",
       "category": "Game",
       "tags": [
         "Game",
-        "fixban - qphungios"
+        "fixban"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/fixbanv2.3105",
@@ -143,7 +143,7 @@
       "name": "FFM AIMBOT ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -176,7 +176,7 @@
       "name": "FFTH AIMBOT ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios  ",
       "category": "qphungios",
       "tags": [
@@ -209,7 +209,7 @@
       "name": "FFM AIMHEAD ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -242,7 +242,7 @@
       "name": "FFTH AIMHEAD ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -275,12 +275,12 @@
       "name": "FFM AIMDRAG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
         "Game",
-        "avatar - qphungios"
+        "avatar"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmdrag.3105",
@@ -308,7 +308,7 @@
       "name": "FFTH AIMDRAG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -341,7 +341,7 @@
       "name": "FFM AIMCHEST ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -374,7 +374,7 @@
       "name": "FFTH AIMCHEST ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -407,7 +407,7 @@
       "name": "FFM SIÊU NHẸ TÂM ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -440,7 +440,7 @@
       "name": "FFTH SIÊU NHẸ TÂM ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -473,7 +473,7 @@
       "name": "FFM AIMNECK ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -506,7 +506,7 @@
       "name": "FFTH AIMNECK ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -539,7 +539,7 @@
       "name": "FFM MAGIC ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -572,7 +572,7 @@
       "name": "FFTH MAGIC ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -605,7 +605,7 @@
       "name": "FFM AIM BỤNG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -638,7 +638,7 @@
       "name": "FFTH AIM BỤNG ( 40% )",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "admin • @qphungios",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -649,468 +649,6 @@
       "download": "packages/ffthbung.3105",
       "sha256": "267c18ec2508214c2cee4dce88661602808bbbe221276af93c27b6816d4ab2f3",
       "size": 47933,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "body",
-      "name": "FFM AIMBODY ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmaimbody.3105",
-      "sha256": "4f4184df5fd0948f3f9235370329ca1a7b9db1cec2252516f6ab8530f26f404b",
-      "size": 70593,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "dybo",
-      "name": "FFTH AIMBODY ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthaimbody.3105",
-      "sha256": "b174914a5ca72fa4548e13024f253b75e14e61b3faf9e8e7ff3a5379f2812d85",
-      "size": 70735,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hedten",
-      "name": "FFM HEAD + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmheadanten.3105",
-      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
-      "size": 48475,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hedfthtn",
-      "name": "FFTH HEAD + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthheadanten.3105",
-      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
-      "size": 47927,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "dragten",
-      "name": "FFM DRAG + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdragantena.3105",
-      "sha256": "9932d959b4fd21f4279d2c56b64b4f6b6d399bfa271b3e6110b89af3421ebea2",
-      "size": 49103,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "dragfthtn",
-      "name": "FFTH DRAG + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdragantena.3105",
-      "sha256": "78b1e232d125e2d09f641e75883ff891e061d7aae33325a5d5d0cbb9d18ee53b",
-      "size": 48555,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hebungen",
-      "name": "FFM BỤNG + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmbungantena.3105",
-      "sha256": "ee2ece9a252efd00819ae8f51b29bb5c026e89a9ed5627e636fffb9284ffd31d",
-      "size": 49120,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "bungathtn",
-      "name": "FFTH BỤNG + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthbungantena.3105",
-      "sha256": "988fdb49e042e3d11377ed5a5897970e2196e3fa47ff075c75934ee0b9818e50",
-      "size": 48573,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hnekten",
-      "name": "FFM NECK + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmneckantena.3105",
-      "sha256": "5c83a97d79258035ca92028c414d1803c5cd59727c6865377801137ff7babecd",
-      "size": 43140,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "ndckfthtn",
-      "name": "FFTH NECK + ANTENA ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthneckantena.3105",
-      "sha256": "ed7419906d60f22b03947a5b13886c6ab2b8e49dfd3ab7f5eea4f9929b75d574",
-      "size": 43136,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hedtdagen",
-      "name": "FFM DRAG CAP USP ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdragv2.3105",
-      "sha256": "b5c02b59741ec6ac1965816985d86c4d3b6377d849bfb251332abcf5dcc32068",
-      "size": 49126,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hedgajfthtn",
-      "name": "FFTH DRAG CAP USP( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdragv2.3105",
-      "sha256": "770486a9a3486e35fee83d38b4b266103402e8b37ba27570ba93a2daabe2dc4e",
-      "size": 48579,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "hedtenbuoi",
-      "name": "FFM AIM BUOI ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmbuoi.3105",
-      "sha256": "125532d8e5cef43d7c1356722e86814677f93054d6a4c6b3df1ebba34432482a",
-      "size": 48564,
-      "supportedOS": [
-    {
-      "minimum": "15.0",
-      "maximum": "36.7"
-    }
-      ],
-      "featured": false,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_3456.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
-    {
-      "identifier": "buoihedfthtn",
-      "name": "FFTH AIM BUOI ( 40% )",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "admin • @qphungios",
-      "description": "Zalo 0348609562  Tele @qphungios ",
-      "category": "qphungios",
-      "tags": [
-        "Game",
-        "avatar - qphungios"
-      ],
-      "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthbuoi.3105",
-      "sha256": "7ff244fecefa4d888cf51235be7f89bf2618eeb543db2677166581bae8c6ade0",
-      "size": 48561,
       "supportedOS": [
     {
       "minimum": "15.0",
