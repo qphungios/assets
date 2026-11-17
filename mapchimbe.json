@@ -19,9 +19,9 @@
         "𝐀𝐯𝐚𝐭𝐚𝐫"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/ffmnewbypass.3105",
-      "sha256": "b06a76de90c544e16edafe6ed835a245ced20d8ae12e51793a5f2686ce6e44ea",
-      "size": 48470,
+      "download": "packages/qpbypass.3105",
+      "sha256": "27a88a793f11b5dad79da75381e8494ba681a9ae006a0abb339c5b364cdb56c2",
+      "size": 2899097,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -119,8 +119,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/qpbung.3105",
-      "sha256": "3c67809da84de72e9f5d208c5e7575789b39b5c4ada5d0493566ab9c42572183",
-      "size": 76011,
+      "sha256": "e8fd099f4b3165869c9d243cc2d4c5b39ca458c71882b5bc42be3763c97fcd83",
+      "size": 49142,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -152,8 +152,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/qpdrag.3105",
-      "sha256": "b65f798e1c0bb7895945770104e1e526593e32e44a358a34f6f7bf6762e3be25",
-      "size": 76153,
+      "sha256": "349f71cf442e32a58633c91dcfcd28fb023e2d59a2818bf12c2c7d26624f1e92",
+      "size": 49130,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -185,8 +185,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/qphead.3105",
-      "sha256": "09a219977959e6bb571e89184e52799606fab48e807b29283c1a6e32d960a137",
-      "size": 76012,
+      "sha256": "ec8845a004481d714d113a92bd3813450d830b9ac64315a337975d2038975848",
+      "size": 49130,
       "supportedOS": [
     {
       "minimum": "15.0",
@@ -218,8 +218,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/qpneck.3105",
-      "sha256": "757ff020e3a31eca50ce86dc047d9fdf6f8ee89de1d960c9dde433d8d621585f",
-      "size": 76154,
+      "sha256": "d1d325646acbe0cc0637af4b991b1ff7f4f94d810682653604b75601fd603377",
+      "size": 49130,
       "supportedOS": [
     {
       "minimum": "15.0",
