@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "identifier": "qphungios.com",
+  "name": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+  "description": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+  "accentColor": "#008080",
+  "icon": "assets/gioi.png",
+  "packages": [
+    {
+      "identifier": "aimbotsh",
+      "name": " BYPASS IN LOVE ( SẢNH )",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": " Zalo 0384307397 ",
+      "category": "𝐀𝐯𝐚𝐭𝐚𝐫",
+      "tags": [
+        "𝐀𝐯𝐚𝐭𝐚𝐫",
+        "𝐀𝐯𝐚𝐭𝐚𝐫"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/qpbypass.3105",
+      "sha256": "27a88a793f11b5dad79da75381e8494ba681a9ae006a0abb339c5b364cdb56c2",
+      "size": 2899097,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/gioi.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    },
+    {
+      "identifier": "dns",
+      "name": " DNS - ( 53b3a5 ) ",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": " Dowload Ipa : https://ipas.cc/wcbqm1 ",
+      "category": "𝐅𝐢𝐱𝐛𝐚𝐧",
+      "tags": [
+        "𝐅𝐢𝐱𝐛𝐚𝐧",
+        "𝐅𝐢𝐱𝐛𝐚𝐧"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/shadow.3105",
+      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
+      "size": 1369454,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/dns.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "shadow",
+      "name": " FIXBAN ID ( BẬT SẢNH )",
+      "author": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": " Dowload Ipa : https://ipas.cc/squzdg ",
+      "category": "𝐅𝐢𝐱𝐛𝐚𝐧",
+      "tags": [
+        "𝐅𝐢𝐱𝐛𝐚𝐧",
+        "𝐅𝐢𝐱𝐛𝐚𝐧"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/fixbanv2.3105",
+      "sha256": "7a80a7f844dfcc0e078df374599a726f7fcbcd275523a000b1a5cb98a804f26f",
+      "size": 9865145,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/shadow.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    },
+    {
+      "identifier": "aimbot",
+      "name": "FFVN AIMBỤNG ( 40% )",
+      "author": "𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": "Zalo 0384307397 ",
+      "category": "𝐀𝐯𝐚𝐭𝐚𝐫",
+      "tags": [
+        "𝐀𝐯𝐚𝐭𝐚𝐫",
+        "𝐀𝐯𝐚𝐭𝐚𝐫"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/qpbung.3105",
+      "sha256": "e8fd099f4b3165869c9d243cc2d4c5b39ca458c71882b5bc42be3763c97fcd83",
+      "size": 49142,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/gioi.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    },
+    {
+      "identifier": "botaim",
+      "name": "FFTH AIMDRAG ( 40% )",
+      "author": "𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": "Zalo 0384307397 ",
+      "category": "𝐀𝐯𝐚𝐭𝐚𝐫",
+      "tags": [
+        "𝐀𝐯𝐚𝐭𝐚𝐫",
+        "𝐀𝐯𝐚𝐭𝐚𝐫"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/qpdrag.3105",
+      "sha256": "349f71cf442e32a58633c91dcfcd28fb023e2d59a2818bf12c2c7d26624f1e92",
+      "size": 49130,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/gioi.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    },
+    {
+      "identifier": "aimbot2sb",
+      "name": "FFM AIMHEAD ( 40% )",
+      "author": "𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": "Zalo 0384307397  ",
+      "category": "𝐀𝐯𝐚𝐭𝐚𝐫",
+      "tags": [
+        "𝐀𝐯𝐚𝐭𝐚𝐫",
+        "𝐀𝐯𝐚𝐭𝐚𝐫"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/qphead.3105",
+      "sha256": "ec8845a004481d714d113a92bd3813450d830b9ac64315a337975d2038975848",
+      "size": 49130,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/gioi.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    },
+    {
+      "identifier": "bnhaimbot2",
+      "name": "FFTH AIMNECK ( 40% )",
+      "author": "𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "version": "1.0.0",
+      "summary": "𝐀𝐃𝐃𝐌𝐈𝐍 • 𝐌𝐚̣̂𝐩 𝐇𝐚̀𝐢 𝐇𝐮̛𝐨̛́𝐜",
+      "description": "Zalo 0384307397 ",
+      "category": "𝐀𝐯𝐚𝐭𝐚𝐫",
+      "tags": [
+        "𝐀𝐯𝐚𝐭𝐚𝐫",
+        "𝐀𝐯𝐚𝐭𝐚𝐫"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/qpneck.3105",
+      "sha256": "d1d325646acbe0cc0637af4b991b1ff7f4f94d810682653604b75601fd603377",
+      "size": 49130,
+      "supportedOS": [
+    {
+      "minimum": "15.0",
+      "maximum": "36.7"
+    }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/gioi.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "@qphungios"
+    }
+  ]
+}
